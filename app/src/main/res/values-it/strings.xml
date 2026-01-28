@@ -1,0 +1,44 @@
+<!-- File: res/values-it/strings.xml (Italiano) -->
+<resources>
+    <string name="app_name">Poema del Giorno per Bleach</string>
+    <string name="settings">Impostazioni</string>
+    <string name="daily_notification">Notifica Giornaliera</string>
+    <string name="notification_time">Orario Notifica</string>
+    <string name="notification_time_desc">Ricevi la notifica ogni giorno alle…</string>
+    <string name="spoiler_preference">Preferenze Notifica Spoiler</string>
+    <string name="spoiler_opt1_title">Mostra titolo e numero</string>
+    <string name="spoiler_opt1_example">Es: Daily Bleach #60 - Everything But the Rain</string>
+    <string name="spoiler_opt2_title">Mostra solo il numero</string>
+    <string name="spoiler_opt2_example">Es: Daily Bleach #60</string>
+    <string name="spoiler_opt3_title">Nessuno spoiler</string>
+    <string name="spoiler_opt3_example">Es: Tocca per vedere il poema del giorno.</string>
+    <string name="test_notification_button">Test Notifica Immediata</string>
+    <string name="test_notification_toast">Test notifica avviato…</string>
+    <string name="notification_enabled_toast">Notifiche giornaliere attivate</string>
+    <string name="notification_disabled_toast">Notifiche giornaliere disattivate</string>
+    <string name="time_updated_toast">Orario notifica aggiornato</string>
+    <string name="spoiler_updated_toast">Impostazione spoiler aggiornata</string>
+    <string name="main_welcome">Benvenuto! Il tuo primo poema arriverà con la prossima notifica.</string>
+    <string name="main_daily_poem_title">Poema del Giorno n°%1$d</string>
+    <string name="info_screen_title">Informazioni e Disclaimer</string>
+    <string name="back_button_desc">Torna indietro</string>
+    <string name="info_button_desc">Informazioni</string>
+    <string name="cover_image_desc">Copertina del volume %1$d</string>
+    <string name="poem_image_desc">Poema del volume %1$d</string>
+    <string name="notif_poem_ready_title">Il tuo poema giornaliero è pronto!</string>
+    <string name="notif_open_app_content">Apri l\'app per scoprire la copertina e il poema di oggi.</string>
+    <string name="notif_spoiler_content">Clicca per scoprire il titolo e il poema.</string>
+    <string name="choose_language">Scegli Lingua</string>
+    <string name="tap_to_reveal">Tocca la copertina per rivelare il poema</string>
+    <!-- Stringhe per il copyright su due righe -->
+    <string name="copyright_line_1">Bleach © Tite Kubo/Shueisha.</string>
+    <string name="copyright_line_2">Tutti i diritti riservati.</string>
+
+
+
+    <!-- Stringhe per la selezione del tema -->
+    <string name="theme_setting">Tema dell\'app</string>
+    <string name="theme_light">Chiaro</string>
+    <string name="theme_dark">Scuro</string>
+    <string name="theme_system">Predefinito di sistema</string>
+</resources>
